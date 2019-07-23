@@ -16,8 +16,8 @@
 ### 2. Kaggle 타이타닉 컴피티션 밋업 <br>
 -  개발 기술: Python , Pandas 개발 기간: 2019-02 ~ 2019-03 팀 이름: Salmon(연어) <br>
 &nbsp; &nbsp;    TODO 앱 설명 <br>
-![ex_screenshot](./image/kaggle.PNG) <br>
-![ex_screenshot](./image/123.PNG) <br>
+<img src="./image/kaggle.PNG" width="400px" height="400px"/>
+<img src="./image/123.PNG"/>
 
 ### 3. Diary App (저장소 =>(Front) https://github.com/soohyeon13/DiraryApp , (Back) https://github.com/soohyeon13/diaryspringBoot) <br>
 -  개발 기술: Android , SpringBoot , MySql 개발 기간: 2019-06-02 ~ 2019-06-21 <br>
