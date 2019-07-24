@@ -12,9 +12,11 @@
 <pre>
 대표 기능
  -로그인
+ -자동로그인
  -웹 크롤링
  -출석체크
 </pre>    
+![ex_screenshot](./image/webImage.PNG)<br>
 
 ### 2. Kaggle 타이타닉 컴피티션 밋업 <br>
 -  개발 기술: Python , Pandas 개발 기간: 2019-02 ~ 2019-03 팀 이름: Salmon(연어) <br>
