@@ -8,7 +8,7 @@
 
 ### 1. 간편 출석체크 App (저장소 => https://github.com/soohyeon13/dreamyjeju ) <br>
 -  개발 기술 : Android 개발 기간: 2019-05-13 ~ 2019-05-20 <br>
-&nbsp; &nbsp;    TODO 앱 설명 <br>
+&nbsp; &nbsp; 비동기 통신에 대해 공부 하던 중 실습을 하기 위해 프로젝트를 시작하였고 학교 출석체크페이지를 크롤링해서 간편하게 할 수 있도록 하였습니다.  <br>
 <pre>
 대표 기능
  -로그인
@@ -20,12 +20,13 @@
 
 ### 2. Kaggle 타이타닉 컴피티션 밋업 <br>
 -  개발 기술: Python , Pandas 개발 기간: 2019-02 ~ 2019-03 팀 이름: Salmon(연어) <br>
-&nbsp; &nbsp;    TODO 앱 설명 <br>
+&nbsp; &nbsp; 캐글 코리아에서 주최하는 타이타닉 생존자 예측 컴피티션을 참가했습니다. <br>
+저희가 대회를 진행 하면서 데이터 분석 과정, 데이터 전처리과정, 모델링 과정 그리고 후기에 대해 머신러닝에 관심이 많은 사람들을 모아 발표를 해보았습니다. 대회 제출까지 해보았고 350개 팀중 43등을 했습니다.   
 ![ex_screenshot](./image/kaggle_competition.PNG)<br>
 
 ### 3. Diary App (저장소 =>(Front) https://github.com/soohyeon13/DiraryApp , (Back) https://github.com/soohyeon13/diaryspringBoot) <br>
 -  개발 기술: Android , SpringBoot , MySql 개발 기간: 2019-06-02 ~ 2019-06-21 <br>
-&nbsp; &nbsp;    TODO 앱 설명 <br>
+&nbsp; &nbsp; front는 안드로이드를 사용하여 개발 하였고 서버는 spring boot 를 사용했습니다. 여러 사용자를 고려하여 <br>
 <pre>
 대표 기능 
 -로그인
