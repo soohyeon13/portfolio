@@ -34,6 +34,6 @@
 -전체 일정 / 메모 조회
 -Google Calendar 가져오기
 </pre>
-
+![ex_screenshot](./image/diaryimage.PNG)<br>
 
 
