@@ -8,7 +8,7 @@
 
 ### 1. 간편 출석체크 App (저장소 => https://github.com/soohyeon13/dreamyjeju ) <br>
 -  개발 기술 : Android 개발 기간: 2019-05-13 ~ 2019-05-20 <br>
-&nbsp; &nbsp; 비동기 통신에 대해 공부 하던 중 실습을 하기 위해 프로젝트를 시작하였고 학교 출석체크페이지를 크롤링해서 간편하게 할 수 있도록 하였습니다.  <br>
+&nbsp; &nbsp; 비동기 통신에 대해 공부 하던 중 실습을 하기 위해 프로젝트를 시작하였고 학교 출석 체크페이지를 크롤링해서 간편하게 할 수 있도록 하였습니다.  <br>
 <pre>
 대표 기능
  -로그인
@@ -24,10 +24,10 @@
 저희가 대회를 진행 하면서 데이터 분석 과정, 데이터 전처리과정, 모델링 과정 그리고 후기에 대해 머신러닝에 관심이 많은 사람들을 모아 발표를 해보았습니다. 대회 제출까지 해보았고 350개 팀중 43등을 했습니다.   
 ![ex_screenshot](./image/kaggle_competition.PNG)<br>
 
-### 3. Diary App (저장소 =>(Front) https://github.com/soohyeon13/DiraryApp , (Back) https://github.com/soohyeon13/diaryspringBoot) <br>
+### 3. Diary App (저장소 =>(Android) https://github.com/soohyeon13/DiraryApp , (Server) https://github.com/soohyeon13/diaryspringBoot) <br>
 -  개발 기술: Android , SpringBoot , MySql 개발 기간: 2019-06-02 ~ 2019-06-21 <br>
-&nbsp; &nbsp; front는 안드로이드를 사용하여 개발 하였고 서버는 spring boot 를 사용했습니다. 여러 사용자를 고려하여 <br>
-<pre>
+&nbsp; &nbsp; Android 와 SpringBoot를 사용했습니다. 사용자가 일정과 메모를 관리할 수 있도록 기획했습니다. 여러 사용자를 고려해서 서버를 두게 되었고, 각 사용자에 따라 일정과 메모를 조회하기 위해 데이터베이스의 구조를 설계했습니다. 또한 Google OAuth를 사용해 구글 캘린더의 일정을 가져올 수 있도록 했습니다.  <br>
+<pre>려
 대표 기능 
 -로그인
 -날짜 별 일정 등록/삭제
