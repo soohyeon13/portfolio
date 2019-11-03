@@ -20,7 +20,7 @@
  -지역별,카테고리별 상품조회(비동기 처리)
  -상품 상세 페이지와 구매 처리(비동기)
 </pre>    
-![ex_screenshot](./image/webImage.PNG)<br>
+![ex_screenshot](./image/prize.JPG) ![ex_screenshot](./image/ticket.jpg) ![ex_screenshot](./image/ticket_presentation.JPG) ![ex_screenshot](./image/ticket_main.png) ![ex_screenshot](./image/ticket_cate.png) ![ex_screenshot](./image/ticket_cate_detail)
 
 ### 2. Kaggle 타이타닉 컴피티션 밋업 <br>
 -  개발 기술: Python , Pandas 개발 기간: 2019-02 ~ 2019-03 팀 이름: Salmon(연어) <br>
