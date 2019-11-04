@@ -28,8 +28,10 @@
 저희가 대회를 진행 하면서 데이터 분석 과정, 데이터 전처리과정, 모델링 과정 그리고 후기에 대해 머신러닝에 관심이 많은 사람들을 모아 발표를 해보았습니다. 대회 제출까지 해보았고 350개 팀중 43등을 했습니다.   
 ![ex_screenshot](./image/kaggle_competition.PNG)<br>
 
-### 3. Diary App (저장소 =>(Android) https://github.com/soohyeon13/DiraryApp , (Server) https://github.com/soohyeon13/diaryspringBoot) <br>
--  개발 기술: Android , SpringBoot , MySql 개발 기간: 2019-06-02 ~ 2019-06-21 <br>
+### 3. Let's trip (저장소 -> https://github.com/soohyeon13/Tourism) <br>
+-  개발 기술: JAVA(android),Jetpack(Room, Navigation, Data Binding) <br>
+   개발 인원: 1명
+   개발 기간: 2019-08-19 ~  <br>
 &nbsp; &nbsp; Android 와 SpringBoot를 사용했습니다. 사용자가 일정과 메모를 관리할 수 있도록 기획했습니다. 여러 사용자를 고려해서 서버를 두게 되었고, 각 사용자에 따라 일정과 메모를 조회하기 위해 데이터베이스의 구조를 설계했습니다. 또한 Google OAuth를 사용해 구글 캘린더의 일정을 가져올 수 있도록 했습니다.  <br>
 <pre>려
 대표 기능 
