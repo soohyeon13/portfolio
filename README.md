@@ -9,7 +9,7 @@
 
 
 ## Project
-사용가능언어-> Android(Kotlin,Java)
+*사용가능언어-> Android(Kotlin,Java)
 ### 1. 마이 리틀 티켓(마리켓) (저장소 -> https://github.com/mrfourfour/ticket-android, (학과 전시회 장려상 수상)<br>
 -  개발 기술 : JAVA(Spring Webflux), DynamoDB, GraphQL, Docker, AWS ElasticBeanstalk, Travis(CI/CD), Android,Vue.js 
    개발 인원 : 5명 <br>
