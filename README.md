@@ -19,11 +19,11 @@
 <pre>
 대표 기능
  -로그인(Cognito 사용)
- -현재 보유중인 티켓,사용처리된 티켓에 대한 구분(비동기 처리)
+ -현재 보유중인 티켓,사용처리된 티켓에 대한 구분(Retrofit + GraphQL)
  -구매자 앱에서 QRcode 스캔시 사용자앱에서 구매처리
- -QRcode에 대한 애니메이션 처리
- -지역별,카테고리별 상품조회(비동기 처리)
- -상품 상세 페이지와 구매 처리(비동기)
+ -QRcode에 대한 애니메이션 처리(Shared Element Transition)
+ -지역별,카테고리별 상품조회(Retrofit + GraphQL)
+ -상품 상세 페이지와 구매 처리(Retrofit + GraphQL)
 </pre>    
 ![ex_screenshot](./image/ticket.png) ![ex_screenshot](./image/ticket_main.png)
 
@@ -37,8 +37,8 @@
 -현재 위치 날씨 조회
 -세부 카테고리별 맛집/투어 조회
 -좋아요를 통해 후에 가고싶은곳 등록/등록취소
--지역 검색을 통한 조회
--해당 지역에 대한 지도와 네비게이션
+-지역 검색을 통한 조회(Room)
+-해당 지역에 대한 지도와 네비게이션(KaKao API)
 </pre>
 ![ex_screenshot](./image/tour.png)<br>
 
