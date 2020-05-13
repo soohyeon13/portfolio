@@ -21,6 +21,12 @@
 기본적인 구조는 MVVM 패턴을 지키기 위해 노력하였고 Databinding 과 LiveData를 사용하여 ViewModel에서 데이터 관련 처리를 해주었습니다. 또한 의존성 주입, 관심사 분리에 대해 깊은 공부를 하고 싶어 Clean Architecture 와 Koin의 사용을 시도 했습니다. data 와 domain을 나눠 역할에 맡게 분리를 시도 했고 Koin을 통해 DI 를 시도했습니다.<br>
 
 <pre>
+기능
+ - 최신 뉴스(google rss xml parsing)
+ - 뉴스 검색(naver search api)-20.05.13 추가
+</pre>
+
+<pre>
  -문제점
    1. Clean Architecture를 도입하기 전 itemviewmodel에서 해당 url을 통해 파싱을 시도하고 recyclerview의 각 item에 bind를 시도했습니다. 하지만 데이터는 들어오지만 view의 데이터는 노출되지 않는 문제를 발견
    -해결 1-1 처음 Rss를 파싱할때 같이 Html도 파싱하고 데이터를 넘겨주는 방법과 Clean Architecture를 생각했습니다.
