@@ -38,6 +38,8 @@
    -해결 4-1 제가 생각하는 오류의 원인은 SSL Certificate때문이라 생각을 해서 okhttp client의 ssl 로직을 추가하는 시도를 했습니다. 하지만 error 로그에는 여전히 같은 오류가 발생하는 것을 확인했습니다.
    - http를 막아 놓은 문제로 인해 발생 하는것같은 생각(또 다른 생각) - 20.05.20
    이 문제는 아직 해결중에 있습니다.
+   5.LiveData의 데이터가 중복되는 버그
+   - BehaviorSubject를 reset 시키는 방법을 선택 -20.05.15
 </pre>
 ![ex_screenshot](./image/news.png) 
 
