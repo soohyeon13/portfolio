@@ -76,11 +76,11 @@ GrahpQL을 사용함에 있어 호환성을 고려해 Retrofit 보단 Apollo And
 <pre>
 대표 기능
  -로그인(Cognito 사용)
- -현재 보유중인 티켓,사용처리된 티켓에 대한 구분(Retrofit + GraphQL)
+ -현재 보유중인 티켓,사용처리된 티켓에 대한 구분(Apollo + GraphQL)
  -구매자 앱에서 QRcode 스캔시 사용자앱에서 구매처리
  -QRcode에 대한 애니메이션 처리(Shared Element Transition)
- -지역별,카테고리별 상품조회(Retrofit + GraphQL)
- -상품 상세 페이지와 구매 처리(Retrofit + GraphQL)
+ -지역별,카테고리별 상품조회(Apollo + GraphQL)
+ -상품 상세 페이지와 구매 처리(Apollo + GraphQL)
 </pre>    
 
 <pre>
