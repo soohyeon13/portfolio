@@ -31,6 +31,7 @@
 기능
  - 최신 뉴스(google rss xml parsing)
  - 뉴스 검색(naver search api)-20.05.13 추가
+ - 카테고리별 뉴스 최신 확인
 </pre>
 
 <pre>
@@ -48,7 +49,7 @@
    5.LiveData의 데이터가 중복되는 버그
    - BehaviorSubject를 reset 시키는 방법을 선택 -20.05.15
 </pre>
-![ex_screenshot](./image/news.png) 
+![ex_screenshot](./image/newsapp.png) 
 
 ### 2. 예약관리 (저장소 -> https://github.com/soohyeon13/ScheduleManagement<br>
 -  개발 기술 : Android(Kotlin), Room, MVVM, Databinding, Clean Architecture, Koin , Navigation
